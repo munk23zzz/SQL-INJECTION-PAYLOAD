@@ -1,9 +1,5 @@
 # SQL Injection Payloads
 
-> ⚠️ For educational and authorized penetration testing purposes only.
-
----
-
 ## 1. AUTH BYPASS
 ```sql
 ' OR '1'='1
