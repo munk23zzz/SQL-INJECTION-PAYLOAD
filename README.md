@@ -211,16 +211,3 @@ char(39)   -- char for '
 
 > 🔒 Always get written permission before testing on any system you do not own.
 ```
-
----
-
-Repositori ini cocok dijadikan referensi pentest. Anda bisa menambahkan struktur folder seperti:
-```
-sql-injection/
-├── auth-bypass.txt
-├── union-based.txt
-├── blind-boolean.txt
-├── blind-time.txt
-├── error-based.txt
-├── filter-bypass.txt
-└── README.md
